@@ -19,6 +19,6 @@ my doc
         Add customers, process payments, and upload Excel files from the dashboard.
         Real-time updates will appear via WebSocket
 
-## hence this was a symplified version , have to UI and styling and some code structure etc if needed furthur
+## hence this was a symplified version , have to update UI and styling and some code structure etc if needed furthur
 
 ## in production we can run frontned with dist folder , for backend we can run with docker
